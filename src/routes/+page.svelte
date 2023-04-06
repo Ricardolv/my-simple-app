@@ -1,9 +1,7 @@
 <script>
-    import Button from './Button.svelte';
+    import Test from '$lib/Test.svelte';
 </script>
 
 <h1>Meu site</h1>
 
-<Button label="opa"/>
-<Button label="Clique aqui!"/>
-<Button />
+<Test />
